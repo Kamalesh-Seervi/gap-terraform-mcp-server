@@ -1,0 +1,2 @@
+[console_scripts]
+gcp-terraform-mcp-server = gcp_terraform_mcp_server.main:main
